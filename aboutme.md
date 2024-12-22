@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Sergei. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am interested in programming. 
+- I am looking for my first job as a developer and do various projects in Python and Java. 
+- I have worked in IT for many years as a technical support employee, in one bank, and even earlier for one internet provider. Now I study programming and dream to become a software developer. 
+- My native language is Russian, but I have good knowledge of German and bad knowledge of English, but that doesn't stop me😊
 
-What else do you need?
+============================
 
-### My story
+Mein Name ist Sergei. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Ich interessiere mich für Programmierung.
+- Ich suche meinen ersten Job als Softwareentwickler und arbeite an verschiedenen Projekten in Python und Java. 
+- Ich habe viele Jahre in der IT-Branche gearbeitet, im technischen Support, in einer Bank und früher sogar bei einem Internet-Provider. Jetzt studiere ich Programmierung und träume davon, Softwareentwickler zu werden. 
+- Meine Muttersprache ist Russisch, aber ich habe gute Deutschkenntnisse und schlechte Englischkenntnisse, aber das hält mich nicht auf😊.
