@@ -20,6 +20,7 @@ author: nik1q
 ###############################################
 
 navbar-links:
+  Home: "index.html"
   About Me: "aboutme"
   Portfolio: "portfolio"
  # Resources:
