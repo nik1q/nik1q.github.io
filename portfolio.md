@@ -48,30 +48,16 @@ subtitle: My Portfolio
 
 <div class="project-grid">
   <div class="project-card">
-    <img src="https://via.placeholder.com/250x150?text=Tic-Tac-Toe" alt="Tic-Tac-Toe" class="project-image">
-    <h3 class="project-title">Tic-Tac-Toe</h3>
-    <p class="project-description">Ein klassisches Tic-Tac-Toe-Spiel, implementiert in Python.</p>
-    <a href="https://github.com/nik1q/Tic-Tac-Toe" class="project-link">Zum Projekt</a>
+    <img src="https://via.placeholder.com/250x150?text=JavaWaehrungRechner" alt="JavaWaehrungRechner" class="project-image">
+    <h3 class="project-title">Java Währungsrechner</h3>
+    <p class="project-description">Ein einfacher Währungsrechner, der Wechselkurse von einer API abruft und die Umrechnung zwischen verschiedenen Währungen ermöglicht.</p>
+    <a href="https://github.com/nik1q/JavaWaehrungRechner" class="project-link">Zum Projekt</a>
   </div>
   
   <div class="project-card">
-    <img src="https://via.placeholder.com/250x150?text=Hangman" alt="Hangman" class="project-image">
-    <h3 class="project-title">Hangman</h3>
-    <p class="project-description">Ein interaktives Hangman-Spiel, entwickelt in Python.</p>
-    <a href="https://github.com/nik1q/Hangman" class="project-link">Zum Projekt</a>
-  </div>
-  
-  <div class="project-card">
-    <img src="https://via.placeholder.com/250x150?text=Minesweeper" alt="Minesweeper" class="project-image">
-    <h3 class="project-title">Minesweeper</h3>
-    <p class="project-description">Eine Python-Implementierung des beliebten Minesweeper-Spiels.</p>
-    <a href="https://github.com/nik1q/Minesweeper" class="project-link">Zum Projekt</a>
-  </div>
-  
-  <div class="project-card">
-    <img src="https://via.placeholder.com/250x150?text=Blackjack" alt="Blackjack" class="project-image">
-    <h3 class="project-title">Blackjack</h3>
-    <p class="project-description">Ein Blackjack-Spiel, programmiert in Python.</p>
-    <a href="https://github.com/nik1q/Blackjack" class="project-link">Zum Projekt</a>
+    <img src="https://via.placeholder.com/250x150?text=DateiRechner" alt="DateiRechner" class="project-image">
+    <h3 class="project-title">Datei Rechner</h3>
+    <p class="project-description">Ein Projekt, das verschiedene Rechnungs- und Dateimanipulationsfunktionen in Java bietet.</p>
+    <a href="https://github.com/nik1q/DateiRechner" class="project-link">Zum Projekt</a>
   </div>
 </div>
