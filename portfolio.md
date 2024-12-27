@@ -48,14 +48,14 @@ subtitle: My Portfolio
 
 <div class="project-grid">
   <div class="project-card">
-    <img src="https://via.placeholder.com/250x150?text=JavaWaehrungRechner" alt="JavaWaehrungRechner" class="project-image">
+    <img src="assets/img/DateiRechner.png?text=JavaWaehrungRechner" alt="JavaWaehrungRechner" class="project-image">
     <h3 class="project-title">Java Währungsrechner</h3>
     <p class="project-description">Ein einfacher Währungsrechner, der Wechselkurse von einer API abruft und die Umrechnung zwischen verschiedenen Währungen ermöglicht.</p>
     <a href="https://github.com/nik1q/JavaWaehrungRechner" class="project-link">Zum Projekt</a>
   </div>
   
   <div class="project-card">
-    <img src="https://via.placeholder.com/250x150?text=DateiRechner" alt="DateiRechner" class="project-image">
+    <img src="assets/img/Java Währungsrechner.png?text=DateiRechner" alt="DateiRechner" class="project-image">
     <h3 class="project-title">Datei Rechner</h3>
     <p class="project-description">Ein Projekt, das verschiedene Rechnungs- und Dateimanipulationsfunktionen in Java bietet.</p>
     <a href="https://github.com/nik1q/DateiRechner" class="project-link">Zum Projekt</a>
